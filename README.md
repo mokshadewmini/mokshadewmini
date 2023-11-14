@@ -1,8 +1,8 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></p>
-<h1 align="center">Hi 👋, I'm Imesh Dinil</h1>
+<h1 align="center">Hi 👋, I'm Moksha Dewmini</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=graslydias&label=Profile%20views&color=0e75b6&style=flat" alt="graslydias" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mokshadewmini&label=Profile%20views&color=0e75b6&style=flat" alt="mokshadewmini" /> </p>
 
 
 
@@ -16,11 +16,11 @@
 
 - 🤝 I’m looking for help with [agriyum](https://www.linkedin.com/in/grasly-dias/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADpQssABAFlWORBjNGJS-gSjHb5aaRZ0bGc)
 
-- 👨‍💻 All of my projects are available at [braintisa.com/team/imesh-dinil](braintisa.com/team/imesh-dinil)
+- 👨‍💻 All of my projects are available at [braintisa](https://www.braintisa.com/team/moksha-dewmini)
 
-- 💬 Ask me about **NextJs, Java,**
+- 💬 Ask me about **PHP, Java,**
 
-- 📫 How to reach me **graslydias@gmail.com**
+- 📫 How to reach me **dewminimoksha40@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -59,9 +59,8 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="inkedin.com/in/grasly-dias/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/grasly.dias/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discord.gg/grasly.dias" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/moksha-dewmini-bb381427a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/bube_mokidew/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
   
 </p>
 <hr/>
