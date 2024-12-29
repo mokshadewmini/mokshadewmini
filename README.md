@@ -1,6 +1,6 @@
 
 👋 Hi, I’m **@mokshadewmini**  
-- 👀 I’m interested in **software engineering, IoT, AI, robotics, full-stack development, and building scalable, innovative solutions.**  
+- 👀 I’m interested in **DevOps** and **software engineering, IoT, AI, robotics, full-stack development, and building scalable, innovative solutions.**  
 - 🌱 I’m currently learning **React Native, distributed systems, advanced cloud computing with AWS and GCP, and leveraging AI tools like ChatGPT, Gemini AI, and BlackBox AI for development.**  
 - 💞️ I’m looking to collaborate on **IoT-driven solutions, AI-powered applications, and full-stack projects with impactful, real-world use cases.**  
 - 📫 How to reach me: **[dewminimoksha40@gmail.com](mailto:dewminimoksha40@gmail.com)**  
